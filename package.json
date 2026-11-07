@@ -32,7 +32,7 @@
     "@vercel/analytics": "^2.0.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "intlayer": "^9.7.0",
+    "intlayer": "^9.7.1",
     "motion": "^14.8.0",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
